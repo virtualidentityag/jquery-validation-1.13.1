@@ -1,6 +1,8 @@
 [jQuery Validation Plugin](http://jqueryvalidation.org/) - Form validation made easy
 ================================
 
+## VI custom: only temporarily so that dist folder exists.
+
 [![Build Status](https://secure.travis-ci.org/jzaefferer/jquery-validation.png)](http://travis-ci.org/jzaefferer/jquery-validation)
 [![devDependency Status](https://david-dm.org/jzaefferer/jquery-validation/dev-status.png?theme=shields.io)](https://david-dm.org/jzaefferer/jquery-validation#info=devDependencies)
 
